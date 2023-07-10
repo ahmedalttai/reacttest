@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "John",
+      "age": 30,
+      "image": "https://randomuser.me/api/portraits/men/20.jpg",
+      "address": "123 Maple St, Springfield, IL 62701, USA"
+    },
+    {
+      "id": 2,
+      "name": "Mary",
+      "age": 25,
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "address": "456 Oak Ave, Orlando, FL 32801, USA"
+    },
+    {
+      "id": 3,
+      "name": "Peter",
+      "age": 34,
+      "image": "https://randomuser.me/api/portraits/men/34.jpg",
+      "address": "789 Pine Blvd, San Francisco, CA 94104, USA"
+    }
+  ]
